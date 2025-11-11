@@ -25,11 +25,11 @@ h1 {
 
 #counter {
     position: relative;
-    right: 50px;
+    right: 60px;
     bottom: 10px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
     body {
         display: flex;
         flex-direction: column;
