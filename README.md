@@ -1,2 +1,14 @@
-# Restricted-Textarea
-A lightweight, vanilla JavaScript textarea component that dynamically tracks character count, enforces a configurable maximum limit, and provides visual feedback by turning the border red when the limit is reached. Ideal for forms requiring strict input length control.
+# Character-Limited Textarea with Live Counter
+
+A simple, responsive textarea that:
+- Displays real-time character count as you type
+- Enforces a maximum character limit
+- Prevents input beyond the limit
+- Changes border color to red when the limit is reached
+
+## Installation
+
+1. Clone or download the repository:
+   git clone https://github.com/Makundi/Restricted-Textarea.git
+
+Project Source: https://roadmap.sh/projects/restricted-textarea
