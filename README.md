@@ -12,3 +12,8 @@ A simple, responsive textarea that:
    git clone https://github.com/Makundi/Restricted-Textarea.git
 
 Project Source: https://roadmap.sh/projects/restricted-textarea
+
+
+## Preview
+
+<img src="./images/preview.png">
