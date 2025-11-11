@@ -1,6 +1,6 @@
 const textArea = document.getElementById("message");
 const counter = document.getElementById("counter");
-const MAX_LENGTH = 50;
+const MAX_LENGTH = 250;
 
 
 
